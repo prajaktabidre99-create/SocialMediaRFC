@@ -98,9 +98,5 @@ It helps understand how Machine Learning can support customer behavior analysis 
 
 **Prajakta Sunil Bidre**
 
-GitHub: [prajaktabidre99-create](https://github.com/prajaktabidre99-create)
-
----
-
 ### 🏷️ Keywords
 `Machine Learning` `Random Forest` `Classification` `Social Network Ads` `Python` `Scikit-learn` `Data Science`
